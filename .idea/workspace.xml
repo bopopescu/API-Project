@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09e4b8af-0c4f-4a88-b71f-3b26e18a22e5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y1DrSowRAEMFOejiSMUaEDCD6k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/templates" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/static" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/templates" />
+      <recent name="$PROJECT_DIR$/src/templates/js" />
+      <recent name="$PROJECT_DIR$/src/templates/index" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR,HTML5_OUTLINE_MODE" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09e4b8af-0c4f-4a88-b71f-3b26e18a22e5" name="Default Changelist" comment="" />
+      <created>1582101405731</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582101405731</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="55" width="804" height="677" key="#Web_Browsers" timestamp="1582275615122">
+      <screen x="0" y="17" width="1366" height="751" />
+    </state>
+    <state x="278" y="55" width="804" height="677" key="#Web_Browsers/0.17.1366.751@0.17.1366.751" timestamp="1582275615122" />
+    <state x="179" y="28" key="SettingsEditor" timestamp="1582538853904">
+      <screen x="0" y="17" width="1366" height="751" />
+    </state>
+    <state x="179" y="28" key="SettingsEditor/0.17.1366.751@0.17.1366.751" timestamp="1582538853904" />
+    <state x="345" y="221" key="com.intellij.ide.util.TipDialog" timestamp="1582789423755">
+      <screen x="0" y="17" width="1366" height="751" />
+    </state>
+    <state x="345" y="221" key="com.intellij.ide.util.TipDialog/0.17.1366.751@0.17.1366.751" timestamp="1582789423755" />
+    <state x="346" y="89" key="search.everywhere.popup" timestamp="1582107471331">
+      <screen x="0" y="17" width="1366" height="751" />
+    </state>
+    <state x="346" y="89" key="search.everywhere.popup/0.17.1366.751@0.17.1366.751" timestamp="1582107471331" />
+  </component>
+</project>
